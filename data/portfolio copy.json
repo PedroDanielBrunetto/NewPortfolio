@@ -1,0 +1,119 @@
+{
+  "name": "Pedro Daniel Brunetto Martinez",
+  "headerTaglineOne": "Hello world 🌎",
+  "headerTaglineTwo": "Pedro Daniel",
+  "headerTaglineThree": "Software Developer 🧑‍💻",
+  "headerTaglineFour": "São Paulo, Brasil",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/PedroDanielBrunetto"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/PedroDanielBrunetto/"
+    },
+    {
+      "id": "3",
+      "title": "Autonomous Company",
+      "link": "https://syncupbrasil.tech/"
+    },
+    {
+      "id": "4",
+      "title": "Email",
+      "link": "mailto:pedrodanielbm@hotmail.com"
+    },
+    {
+      "id": "4",
+      "title": "CV",
+      "link": "https://github.com/PedroDanielBrunetto/Curriculo/blob/main/Curr%C3%ADculo%20Pedro%20Daniel-09-2024.pdf"
+    }
+  ],
+  "projects": [
+    {
+      "id": "030303dd-9d45-4937-a162-1cd927ed37c5",
+      "title": "Sync Up Brasil",
+      "description": "Software House",
+      "imageSrc": "https://fv5-3.files.fm/thumb_show.php?i=ec48yjppbd&view&v=1&PHPSESSID=abc2e11736018474b86b6f832d0fba1d19979613",
+      "url": "https://syncupbrasil.tech"
+    },
+    {
+      "id": "1c4257e3-9350-4dd0-a231-99be85a20936",
+      "title": "Pawsy",
+      "description": "Plataforma de Gestão de Saúde Animal",
+      "imageSrc": "https://fv5-2.files.fm/thumb_show.php?i=gcd9afwp8n&view&v=1&PHPSESSID=abc2e11736018474b86b6f832d0fba1d19979613",
+      "url": "https://github.com/pawsy-oficial"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Desenvolvimento Web",
+      "description": "Atuo na criação de soluções web completas, da concepção ao deploy. Desenvolvo e integro aplicações robustas, com foco em desempenho e escalabilidade, utilizando tecnologias como ReactJS, NodeJS, TypeScript e .NET."
+    },
+    {
+      "id": "2",
+      "title": "Desenvolvimento de APIs e Integrações",
+      "description": "Crio e integro APIs RESTful, garantindo comunicação eficiente entre sistemas e alta segurança nos processos de autenticação e autorização. Minha experiência cobre desde a criação da lógica de negócios até a configuração de infraestrutura."
+    },
+    {
+      "id": "3",
+      "title": "Design e UX para Aplicações",
+      "description": "Crio interfaces intuitivas e eficientes, garantindo que a experiência do usuário seja otimizada em cada interação. Trabalho desde o layout até a escolha de componentes, sempre mantendo a identidade visual e usabilidade."
+    },
+    {
+      "id": "4",
+      "title": "Gestão de Projetos e Colaboração em Equipe",
+      "description": "Sou comunicativo e organizado, conduzindo projetos de desenvolvimento com foco em entregas ágeis e de qualidade. Minha experiência em metodologias ágeis me permite colaborar eficazmente com equipes multidisciplinares, alinhando objetivos e prazos."
+    }
+  ],
+  "aboutpara": "Profissional com sólida experiência em desenvolvimento de software, atuando na área há mais de dois anos e contribuindo para a solução de problemas com tecnologia e inovação. Tenho experiência no desenvolvimento de software desde a concepção até o deploy, utilizando tecnologias como .NET, NodeJS, ReactJS, TypeScript, C#, SQL, entre outras. Sou um eterno aprendiz, apaixonado por compartilhar ideias e conhecimentos, sempre em busca de novas habilidades e desafios.",
+  "resume": {
+    "tagline": "Desenvolvedor de Software",
+    "description": "Profissional com sólida experiência em desenvolvimento de software, atuando na área há mais de dois anos e contribuindo para a solução de problemas com tecnologia e inovação. Tenho experiência no desenvolvimento de software desde a concepção até o deploy.",
+    "experiences": [
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "Agosto 2023 - Novembro 2024",
+        "type": "Presencial",
+        "position": "Estagiário - Desenvolvedor de Software",
+        "bullets": "Participação em sustentação e criação de sistemas utilizando diversas tecnologias, C#, .NET, React, Redux, Ionic, Docker, Entre outras"
+      }
+    ],
+    "education": {
+      "universityName": "Etec Dra. Ruth Cardoso",
+      "universityDate": "Agosto 2022 - Dezembro 2023",
+      "universityPara": "Curso Técnico: Desenvolvimento de Sistemas"
+    },
+    "languages": [
+      "C#",
+      "Javascript",
+      "Typescript"
+    ],
+    "frameworks": [
+      ".NET Core",
+      "React",
+      "Tailwind",
+      "Shadcn/ui",
+      "Next",
+      "Redux",
+      "NodeJs",
+      "Express"
+    ],
+    "others": [
+      "Docker",
+      "Ubuntu",
+      "SSH",
+      "AWS S3",
+      "AWS SES",
+      "Swagger",
+      "Figma"
+    ]
+  }
+}
