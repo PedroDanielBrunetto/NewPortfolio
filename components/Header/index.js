@@ -75,13 +75,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                     <Button onClick={() => router.push("/blog")}>Blog</Button>
                   )}
                   {showResume && (
-                    <Button
-                      onClick={() =>
-                        window.open("mailto:pedrodanielbm@hotmail.com")
-                      }
-                    >
-                      Resumo
-                    </Button>
+                    <Button onClick={() => router.push("/resume")}>Resumo</Button>
                   )}
 
                   <Button
@@ -108,7 +102,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
 
                   <Button
-                    onClick={() => window.open("mailto:pedrodanielbm@hotmail.com")}
+                    onClick={() =>
+                      window.open("mailto:pedrodanielbm@hotmail.com")
+                    }
                   >
                     Contato
                   </Button>
@@ -145,7 +141,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:pedrodanielbm@hotmail.com")}>
+            <Button
+              onClick={() => window.open("mailto:pedrodanielbm@hotmail.com")}
+            >
               Contato
             </Button>
             {mounted && theme && data.darkMode && (
@@ -174,7 +172,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:pedrodanielbm@hotmail.com")}>
+            <Button
+              onClick={() => window.open("mailto:pedrodanielbm@hotmail.com")}
+            >
               Contato
             </Button>
 
