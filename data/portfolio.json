@@ -40,14 +40,14 @@
       "id": "030303dd-9d45-4937-a162-1cd927ed37c5",
       "title": "Sync Up Brasil",
       "description": "Software House",
-      "imageSrc": "https://fv5-3.files.fm/thumb_show.php?i=ec48yjppbd&view&v=1&PHPSESSID=abc2e11736018474b86b6f832d0fba1d19979613",
+      "imageSrc": "https://raw.githubusercontent.com/PedroDanielBrunetto/NewPortfolio/refs/heads/main/public/images/hero.png",
       "url": "https://syncupbrasil.tech"
     },
     {
       "id": "1c4257e3-9350-4dd0-a231-99be85a20936",
       "title": "Pawsy",
       "description": "Plataforma de Gestão de Saúde Animal",
-      "imageSrc": "https://fv5-2.files.fm/thumb_show.php?i=gcd9afwp8n&view&v=1&PHPSESSID=abc2e11736018474b86b6f832d0fba1d19979613",
+      "imageSrc": "https://raw.githubusercontent.com/PedroDanielBrunetto/NewPortfolio/refs/heads/main/public/images/pawsy.png",
       "url": "https://github.com/pawsy-oficial"
     }
   ],
@@ -71,7 +71,7 @@
       "id": "4",
       "title": "Gestão de Projetos e Colaboração em Equipe",
       "description": "Sou comunicativo e organizado, conduzindo projetos de desenvolvimento com foco em entregas ágeis e de qualidade. Minha experiência em metodologias ágeis me permite colaborar eficazmente com equipes multidisciplinares, alinhando objetivos e prazos."
-    }    
+    }
   ],
   "aboutpara": "Profissional com sólida experiência em desenvolvimento de software, atuando na área há mais de dois anos e contribuindo para a solução de problemas com tecnologia e inovação. Tenho experiência no desenvolvimento de software desde a concepção até o deploy, utilizando tecnologias como .NET, NodeJS, ReactJS, TypeScript, C#, SQL, entre outras. Sou um eterno aprendiz, apaixonado por compartilhar ideias e conhecimentos, sempre em busca de novas habilidades e desafios.",
   "resume": {

@@ -40,14 +40,14 @@
       "id": "030303dd-9d45-4937-a162-1cd927ed37c5",
       "title": "Sync Up Brasil",
       "description": "Software House",
-      "imageSrc": "../public/images/hero.png",
+      "imageSrc": "https://raw.githubusercontent.com/PedroDanielBrunetto/NewPortfolio/refs/heads/main/public/images/hero.png",
       "url": "https://syncupbrasil.tech"
     },
     {
       "id": "1c4257e3-9350-4dd0-a231-99be85a20936",
       "title": "Pawsy",
       "description": "Plataforma de Gestão de Saúde Animal",
-      "imageSrc": "../public/images/pawsy.png",
+      "imageSrc": "https://raw.githubusercontent.com/PedroDanielBrunetto/NewPortfolio/refs/heads/main/public/images/pawsy.png",
       "url": "https://github.com/pawsy-oficial"
     }
   ],
