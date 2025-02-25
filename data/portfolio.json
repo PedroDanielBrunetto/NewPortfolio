@@ -55,7 +55,7 @@
     {
       "id": "1",
       "title": "Desenvolvimento Web",
-      "description": "Atuo na criação de soluções web completas, da concepção ao deploy. Desenvolvo e integro aplicações robustas, com foco em desempenho e escalabilidade, utilizando tecnologias como ReactJS, NodeJS, TypeScript e .NET."
+      "description": "Atuo na criação de soluções web completas, da concepção ao deploy. Desenvolvo e integro aplicações robustas, com foco em desempenho e escalabilidade, utilizando tecnologias como ReactJS, Angular, NodeJS, TypeScript e .NET."
     },
     {
       "id": "2",
@@ -73,7 +73,7 @@
       "description": "Sou comunicativo e organizado, conduzindo projetos de desenvolvimento com foco em entregas ágeis e de qualidade. Minha experiência em metodologias ágeis me permite colaborar eficazmente com equipes multidisciplinares, alinhando objetivos e prazos."
     }
   ],
-  "aboutpara": "Profissional com sólida experiência em desenvolvimento de software, atuando na área há mais de dois anos e contribuindo para a solução de problemas com tecnologia e inovação. Tenho experiência no desenvolvimento de software desde a concepção até o deploy, utilizando tecnologias como .NET, NodeJS, ReactJS, TypeScript, C#, SQL, entre outras. Sou um eterno aprendiz, apaixonado por compartilhar ideias e conhecimentos, sempre em busca de novas habilidades e desafios.",
+  "aboutpara": "Profissional com sólida experiência em desenvolvimento de software, atuando na área há mais de dois anos e contribuindo para a solução de problemas com tecnologia e inovação. \n\nTenho experiência no desenvolvimento de software desde a concepção até o deploy, utilizando tecnologias como .NET, C#, Node.js, TypeScript, React, Angular, SQL, Docker, entre outras. \n\nSou um eterno aprendiz, apaixonado por compartilhar ideias e conhecimentos, sempre em busca de novas habilidades e desafios.",
   "resume": {
     "tagline": "Desenvolvedor de Software",
     "description": "Profissional com sólida experiência em desenvolvimento de software, atuando na área há mais de dois anos e contribuindo para a solução de problemas com tecnologia e inovação. Tenho experiência no desenvolvimento de software desde a concepção até o deploy.",
@@ -84,6 +84,13 @@
         "type": "Presencial",
         "position": "Estagiário - Desenvolvedor de Software",
         "bullets": "Participação em sustentação e criação de sistemas utilizando diversas tecnologias, C#, .NET, React, Redux, Ionic, Docker, Entre outras"
+      },
+      {
+        "id": "14b0b6d9-919f-4076-ac60-2e6900775a86",
+        "dates": "Fevereiro 2025 - Atualmente",
+        "type": "Presencial",
+        "position": "Estagiário - Desenvolvedor Front-End",
+        "bullets": "Estou participando do Processo de Formação na trilha de Front-End com Angular."
       }
     ],
     "education": {
@@ -97,19 +104,20 @@
       "Typescript"
     ],
     "frameworks": [
-      ".NET Core",
-      "React",
-      "Tailwind",
-      "Shadcn/ui",
-      "Next",
-      "Redux",
-      "NodeJs",
-      "Express"
+      ".NET",
+      "NodeJs/ Express",
+      "React/ Next ",
+      "Angular",
+      "Tailwind/ Shadcn UI/ MUI",
+      "Redux"
     ],
     "others": [
       "Docker",
       "Ubuntu",
       "SSH",
+      "CI/CD",
+      "GitHub Actions",
+      "SQL",
       "AWS S3",
       "AWS SES",
       "Swagger",
