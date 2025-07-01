@@ -2,7 +2,7 @@
   "name": "Pedro Daniel Brunetto Martinez",
   "headerTaglineOne": "Hello world 🌎",
   "headerTaglineTwo": "Pedro Daniel",
-  "headerTaglineThree": "Software Developer 🧑‍💻",
+  "headerTaglineThree": "Engenheiro de Software 🧑‍💻",
   "headerTaglineFour": "São Paulo, Brasil",
   "showCursor": true,
   "showBlog": true,
@@ -21,27 +21,22 @@
     },
     {
       "id": "3",
-      "title": "Autonomous Company",
-      "link": "https://syncupbrasil.tech/"
-    },
-    {
-      "id": "4",
       "title": "Email",
       "link": "mailto:pedrodanielbm@hotmail.com"
     },
     {
       "id": "4",
       "title": "CV",
-      "link": "https://github.com/PedroDanielBrunetto/Curriculo/blob/main/Curr%C3%ADculo%20Pedro%20Daniel_11_24.pdf"
+      "link": "https://github.com/PedroDanielBrunetto/Curriculo/blob/main/Curr%C3%ADculo%20Pedro%20Daniel%20-%20Jul%202025.pdf"
     }
   ],
   "projects": [
     {
       "id": "030303dd-9d45-4937-a162-1cd927ed37c5",
-      "title": "Sync Up Brasil",
+      "title": "SyncUp",
       "description": "Software House",
       "imageSrc": "https://raw.githubusercontent.com/PedroDanielBrunetto/NewPortfolio/refs/heads/main/public/images/hero.png",
-      "url": "https://syncupbrasil.tech"
+      "url": "https://syncup-nu.vercel.app"
     },
     {
       "id": "1c4257e3-9350-4dd0-a231-99be85a20936",
@@ -55,7 +50,7 @@
     {
       "id": "1",
       "title": "Desenvolvimento Web",
-      "description": "Atuo na criação de soluções web completas, da concepção ao deploy. Desenvolvo e integro aplicações robustas, com foco em desempenho e escalabilidade, utilizando tecnologias como ReactJS, NodeJS, TypeScript e .NET."
+      "description": "Atuo na criação de soluções web completas, da concepção ao deploy. Desenvolvo e integro aplicações robustas, com foco em desempenho e escalabilidade, utilizando tecnologias como  .NET, C#, NodeJS, ReactJS, Angular, TypeScript, SQL, Docker, AWS, CI/CD entre outras."
     },
     {
       "id": "2",
@@ -73,7 +68,7 @@
       "description": "Sou comunicativo e organizado, conduzindo projetos de desenvolvimento com foco em entregas ágeis e de qualidade. Minha experiência em metodologias ágeis me permite colaborar eficazmente com equipes multidisciplinares, alinhando objetivos e prazos."
     }
   ],
-  "aboutpara": "Profissional com sólida experiência em desenvolvimento de software, atuando na área há mais de dois anos e contribuindo para a solução de problemas com tecnologia e inovação. Tenho experiência no desenvolvimento de software desde a concepção até o deploy, utilizando tecnologias como .NET, NodeJS, ReactJS, TypeScript, C#, SQL, entre outras. Sou um eterno aprendiz, apaixonado por compartilhar ideias e conhecimentos, sempre em busca de novas habilidades e desafios.",
+  "aboutpara": "Profissional com sólida experiência em desenvolvimento de software, atuando na área há mais de dois anos e contribuindo para a solução de problemas com tecnologia e inovação. Tenho experiência no desenvolvimento de software desde a concepção até o deploy, utilizando tecnologias como .NET, C#, NodeJS, ReactJS, Angular, TypeScript, SQL, Docker, AWS, CI/CD entre outras. Sou um eterno aprendiz, apaixonado por compartilhar ideias e conhecimentos, sempre em busca de novas habilidades e desafios.",
   "resume": {
     "tagline": "Desenvolvedor de Software",
     "description": "Profissional com sólida experiência em desenvolvimento de software, atuando na área há mais de dois anos e contribuindo para a solução de problemas com tecnologia e inovação. Tenho experiência no desenvolvimento de software desde a concepção até o deploy.",
@@ -81,9 +76,23 @@
       {
         "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
         "dates": "Agosto 2023 - Novembro 2024",
-        "type": "Presencial",
-        "position": "Estagiário - Desenvolvedor de Software",
+        "type": "Marimex - Presencial",
+        "position": "Aprendiz - Desenvolvedor de Software",
         "bullets": "Participação em sustentação e criação de sistemas utilizando diversas tecnologias, C#, .NET, React, Redux, Ionic, Docker, Entre outras"
+      },
+      {
+        "id": "14b0b6d9-919f-4076-ac60-2e6900775a86",
+        "dates": "Fevereiro 2025 - Maio 2025",
+        "type": "Mosten - Presencial",
+        "position": "Estagiário - Desenvolvedor de Software",
+        "bullets": "Contribui como dev full stack na criação um sistema completo para gestão aeroportuária chamado MostenAir. Angular, .NET Core, Entity Framework, CQRS, DDD, PostgreSQL, Azure DevOps, Entre outras"
+      },
+      {
+        "id": "14b0b6d9-919f-4076-ac60-2e6900775123",
+        "dates": "Maio 2025 - Atualmente",
+        "type": "Mosten - Híbrido",
+        "position": "Desenvolvedor de Software JR",
+        "bullets": "Atualmente atuo no desenvolvimento e aprimoramento de um sistema de Comércio Exterior (NVOCC) com foco principal na otimização do fluxo de desconsolidação. "
       }
     ],
     "education": {
@@ -97,22 +106,20 @@
       "Typescript"
     ],
     "frameworks": [
-      ".NET Core",
-      "React",
-      "Tailwind",
-      "Shadcn/ui",
-      "Next",
-      "Redux",
-      "NodeJs",
-      "Express"
+      ".NET Core | Framework",
+      "NodeJs | Express",
+      "React | Next ",
+      "Angular",
+      "Tailwind | Shadcn UI | MUI",
+      "Redux"
     ],
     "others": [
+      "SQL",
       "Docker",
-      "Ubuntu",
-      "SSH",
-      "AWS S3",
-      "AWS SES",
-      "Swagger",
+      "CI/CD",
+      "Testes Unitários",
+      "System Design",
+      "AWS",
       "Figma"
     ]
   }
